@@ -1,0 +1,33 @@
+/* Header */
+.header
+{
+  flex-direction: column;
+  background-color: var(--red-color);
+}
+
+.header-content{
+  row-gap: 6rem;
+  min-height: calc(100vh - 8rem);
+}
+
+/* left side */
+.header-title
+{
+  margin-bottom: 2.5rem;
+}
+
+/* right side */
+.header-content-right img
+{
+  max-width: 80rem;
+}
+
+/* viewports */
+@media screen and (min-width: 992px){
+  .header-content{
+    grid-template-columns: 2fr 3fr;
+    align-items: center;
+    text-align: left;
+    column-gap: 6rem;
+  }
+}

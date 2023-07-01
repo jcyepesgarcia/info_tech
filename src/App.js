@@ -1,11 +1,13 @@
+import React from 'react';
 import './App.css';
-import {what_we_do, teams} from './utils/data'
+import './assets/js/script';
+import Header from './components/header/Header';
 
 function App() {
 
   return (
     <div className="App">
-      <img src={teams[4].img} alt="" />
+      <Header/>
     </div>
   );
 }

@@ -99,7 +99,6 @@
 //   },
 // ];
 
-
 // const packages = [
 //   {
 //     id: 1,
@@ -135,7 +134,6 @@
 //     price: "19"
 //   },
 // ];
-
 
 // const projects = [
 //   {
@@ -222,7 +220,7 @@
 // }
 
 
-import header_device_img from "../assets/images/header_device_img.png";
+// import header_device_img from "../assets/images/header_device_img.png";
 import laptop_img from "../assets/images/laptop_img.jpg";
 import icon_text from "../assets/images/icon_text.png";
 import icon_monitor from "../assets/images/icon_monitor.png";
