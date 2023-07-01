@@ -1,0 +1,56 @@
+/* Team */
+.team
+{
+
+}
+
+/* team content */
+.team-content
+{
+  gap: 4rem;
+}
+
+.team-item
+{
+
+}
+
+.team-item img
+{
+  max-width: 20rem;
+  transition: var(--transition);
+}
+
+.team-item img:hover
+{
+  transform: scale(1.1);
+}
+
+.team-item p{
+  margin: 2.6rem 0 .6rem 0;
+}
+
+/* viewports */
+@media screen and (min-width: 768px)
+{
+  .team-content
+  {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (min-width: 992px)
+{
+  .team-content
+  {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media screen and (min-width: 1200px)
+{
+  .team-content
+  {
+    grid-template-columns: repeat(5, 1fr);
+  }
+}

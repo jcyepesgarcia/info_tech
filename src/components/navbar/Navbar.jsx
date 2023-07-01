@@ -66,7 +66,7 @@ function Navbar() {
               </a>
             </li>
             <li className="nav-item">
-              <a href="#header" className="nav-link">
+              <a href="#team" className="nav-link">
                 teams
               </a>
             </li>

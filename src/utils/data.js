@@ -426,7 +426,7 @@ export const projects = [
   },
 ];
 
-export const teams = [
+export const team = [
   {
     id: 1,
     img: team_img_1,
