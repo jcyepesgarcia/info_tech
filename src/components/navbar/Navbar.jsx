@@ -61,7 +61,7 @@ function Navbar() {
               </a>
             </li>
             <li className="nav-item">
-              <a href="#header" className="nav-link">
+              <a href="#projects" className="nav-link">
                 projects
               </a>
             </li>

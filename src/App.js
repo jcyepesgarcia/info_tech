@@ -5,6 +5,7 @@ import Header from './components/header/Header';
 import WhatWeDo from './components/whatWeDo/WhatWeDo';
 import Features from './components/features/Features';
 import Packages from './components/packages/Packages';
+import Projects from './components/projects/Projects';
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
       <WhatWeDo />
       <Features />
       <Packages/>
+      <Projects/>
     </div>
   );
 }
