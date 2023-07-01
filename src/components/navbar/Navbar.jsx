@@ -56,7 +56,7 @@ function Navbar() {
               </a>
             </li>
             <li className="nav-item">
-              <a href="#header" className="nav-link">
+              <a href="#packages" className="nav-link">
                 packages
               </a>
             </li>

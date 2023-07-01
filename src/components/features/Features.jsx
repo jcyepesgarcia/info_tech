@@ -3,7 +3,6 @@ import { features } from "../../utils/data";
 import "./Features.css";
 
 function Features() {
-  console.log(features);
   return (
     <section className="features py-6" id="features">
       <div className="container">

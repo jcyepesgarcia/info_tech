@@ -4,6 +4,7 @@ import './assets/js/script';
 import Header from './components/header/Header';
 import WhatWeDo from './components/whatWeDo/WhatWeDo';
 import Features from './components/features/Features';
+import Packages from './components/packages/Packages';
 
 function App() {
 
@@ -12,6 +13,7 @@ function App() {
       <Header/>
       <WhatWeDo />
       <Features />
+      <Packages/>
     </div>
   );
 }
