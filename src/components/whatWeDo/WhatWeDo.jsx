@@ -4,7 +4,7 @@ import "./WhatWeDo.css";
 
 function WhatWeDo() {
   return (
-    <section className="what-we-do py-6" id="what-we-do">
+    <section className="what-we-do py-6" id="whatWeDo">
       <div className="container">
         {/* title */}
         <div className="section-title bg-dark">

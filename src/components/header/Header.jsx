@@ -37,4 +37,3 @@ function Header() {
 }
 
 export default Header;
-// 31:12mn
