@@ -221,6 +221,13 @@
   transition: none !important;
 }
 
+.section-title
+{
+  width: 32rem;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
 .App
 {
   overflow-x: hidden;

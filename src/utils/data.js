@@ -248,7 +248,7 @@ import team_img_3 from "../assets/images/team_img_3.png";
 import team_img_4 from "../assets/images/team_img_4.png";
 import team_img_5 from "../assets/images/team_img_5.png";
 
-export const what_we_do = [
+export const whatWeDo = [
   {
     id: 1,
     image: laptop_img,
