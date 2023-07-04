@@ -14,7 +14,7 @@ function Team() {
             <div className="team-item text-center text-white" key={index}>
               <img
                 src={team.img}
-                alt={`${team.name} image`}
+                alt={`${team.name}`}
                 className="mx-auto"
               />
               <p className="text-upper fw-7">{team.name}</p>

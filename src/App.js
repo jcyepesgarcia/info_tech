@@ -7,6 +7,7 @@ import Features from './components/features/Features';
 import Packages from './components/packages/Packages';
 import Projects from './components/projects/Projects';
 import Team from './components/team/Team';
+import Support from './components/support/Support';
 
 function App() {
 
@@ -18,6 +19,7 @@ function App() {
       <Packages/>
       <Projects/>
       <Team/>
+      <Support/>
     </div>
   );
 }

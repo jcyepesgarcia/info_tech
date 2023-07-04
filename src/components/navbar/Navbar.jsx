@@ -71,7 +71,7 @@ function Navbar() {
               </a>
             </li>
             <li className="nav-item">
-              <a href="#header" className="nav-link">
+              <a href="#support" className="nav-link">
                 support
               </a>
             </li>

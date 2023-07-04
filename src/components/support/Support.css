@@ -1,0 +1,44 @@
+/* Support */
+.support
+{
+
+}
+
+/* support content */
+.support-content
+{
+  gap: 6rem;
+}
+
+.support-content .text
+{
+  max-width: 60rem;
+}
+
+.support-content-left p:first-child
+{
+  margin-bottom: 1rem;
+}
+
+.support-content-right img
+{
+  max-width: 62rem;
+}
+
+/* viewports */
+@media screen and (min-width: 992px)
+{
+  .support-content
+  {
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+  }
+
+  .support-content .text
+  {
+    text-align: left;
+  }
+}
+
+
+
