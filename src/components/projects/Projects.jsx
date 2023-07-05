@@ -7,7 +7,7 @@ function Projects() {
     <section className="projects py-6" id="projects">
       <div className="container">
         <div className="section-title bg-dark">
-          <h2 className="text-upper text-white text-center">our packages</h2>
+          <h2 className="text-upper text-white text-center">our projects</h2>
         </div>
         <div className="projects-content grid py-6">
           {projects.map((project, index) => (

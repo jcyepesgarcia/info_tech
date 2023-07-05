@@ -25,7 +25,7 @@ function Packages() {
               <div className="package-item-price">
                 <span>${packg.price}</span>/mo.
               </div>
-              <a href="#" className="btn btn-red">
+              <a href="#packages" className="btn btn-red">
                 order now
               </a>
             </div>

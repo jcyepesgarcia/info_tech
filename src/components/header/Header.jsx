@@ -21,7 +21,7 @@ function Header() {
               dignissimos aliquam, modi ipsum deleniti, iure, tempora quo id
               temporibus voluptate quas? Id fugiat magni officiis culpa.
             </p>
-            <a href="#" className="btn btn-dark">
+            <a href="#header" className="btn btn-dark">
               <span>view more</span>
               <FaPaperPlane />
             </a>
