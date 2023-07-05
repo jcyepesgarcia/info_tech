@@ -15,12 +15,12 @@ function WhatWeDo() {
           {whatWeDo.map((item, index) => (
             <div className="what-we-do-item grid text-center" key={index}>
               <div className="what-we-do-item-left" data-aos="fade-right">
-                <img src={item.image} alt="laptop image" className="mx-auto" />
+                <img src={item.image} alt="laptop" className="mx-auto" />
               </div>
               <div className="what-we-do-right" data-aos="fade-left">
                 <h4 className="text-upper fs-20 section-title">{item.title}</h4>
                 <p className="text mx-auto">{item.paragraph}</p>
-                <a href="#" className="btn btn-red">
+                <a href="#whatWeDo" className="btn btn-red">
                   view more
                 </a>
               </div>
