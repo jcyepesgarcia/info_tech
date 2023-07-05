@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# Info Tech
+Este es un proyecto de práctica en React que consiste en un template genérico de página web diseñado para ofrecer cualquier tipo de servicios. El enfoque principal del diseño es "Mobile first", asegurando una experiencia óptima tanto en dispositivos móviles como en pantallas más grandes.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Características principales
 
-## Available Scripts
+- **Diseño Mobile first**: El template está diseñado de manera que se adapte y se vea bien en dispositivos móviles, proporcionando una experiencia de usuario fluida.
+- **Librería react-icons**: Se ha incorporado la versión 4.10.1 de la librería `react-icons`, la cual ofrece una amplia gama de iconos listos para ser utilizados en la página.
+- **Librería aos**: Se ha incorporado la versión 3.0.0-beta.6 de la librería `aos`, la cual proporciona animaciones de desplazamiento a medida que se va navegando por la página, añadiendo interactividad y atractivo visual.
 
-In the project directory, you can run:
+## Tutorial de GorkCoder en YouTube
 
-### `npm start`
+Este proyecto fue creado siguiendo el tutorial del canal de YouTube "GorkCoder", el cual proporcionó instrucciones paso a paso para construir el template de página web. Puedes encontrar el tutorial [aquí](https://www.youtube.com/watch?v=q1uFvb9QfkM).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Agradecemos a GorkCoder por compartir su conocimiento y permitirnos aprender y practicar React a través de este proyecto.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Instalación y configuración
 
-### `npm test`
+Sigue estos pasos para instalar y ejecutar el proyecto en tu entorno local:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clona este repositorio:
+   ```
+   git clone https://github.com/jcyepesgarcia/info_tech.git
+   ```
+2. Navega hasta la carpeta del proyecto:
+   ```
+   cd info_tech
+   ```
+3. Instala las dependencias:
+   ```
+   npm install
+   ```
+4. Inicia la aplicación:
+   ```
+   npm start
+   ```
+5. Abre tu navegador y visita ```http://localhost:3000``` para ver el template de página web en acción.
 
-### `npm run build`
+## Contribuciones
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+¡Se aceptan contribuciones para mejorar este template de página web! Si tienes alguna idea, sugerencia o corrección, no dudes en realizar un pull request. Tu contribución es muy apreciada.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### 1440px 
+![FireShot](https://github.com/jcyepesgarcia/info_tech/assets/136846281/729e2aeb-b483-4f33-b1d2-5f24865ac88f)
+### 375px 
+![FireShotMobile](https://github.com/jcyepesgarcia/info_tech/assets/136846281/f841468f-5259-45cf-b072-ee0d07bbd252) 
