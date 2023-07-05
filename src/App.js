@@ -8,6 +8,7 @@ import Packages from './components/packages/Packages';
 import Projects from './components/projects/Projects';
 import Team from './components/team/Team';
 import Support from './components/support/Support';
+import Footer from './components/footer/Footer'
 
 function App() {
 
@@ -20,6 +21,7 @@ function App() {
       <Projects/>
       <Team/>
       <Support/>
+      <Footer/>
     </div>
   );
 }
