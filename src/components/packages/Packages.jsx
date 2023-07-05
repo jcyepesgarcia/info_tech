@@ -11,7 +11,11 @@ function Packages() {
         </div>
         <div className="packages-content grid py-6">
           {packages.map((packg, index) => (
-            <div className="package-item text-center mx-auto" key={index}>
+            <div
+              className="package-item text-center mx-auto"
+              key={index}
+              data-aos="fade-up"
+            >
               <h3 className="package-item-title">{packg.type}</h3>
               <ul className="package-item-list">
                 {packg.service_list.map((service, index) => (

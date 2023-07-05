@@ -11,7 +11,11 @@ function Projects() {
         </div>
         <div className="projects-content grid py-6">
           {projects.map((project, index) => (
-            <div className="project-item text-center" key={index}>
+            <div
+              className="project-item text-center"
+              key={index}
+              data-aos="zoom-in"
+            >
               <img src={project.img} alt={project.title} className="mx-auto" />
               <h4 className="text-upper">{project.title}</h4>
             </div>

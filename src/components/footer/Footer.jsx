@@ -11,7 +11,7 @@ function Footer() {
   return (
     <footer className="footer bg-dark text-white py-6" id="footer">
       <div className="container">
-        <div className="footer-content text-center">
+        <div className="footer-content text-center" data-aos="fade-up" data-aos-duration="800">
           <div className="footer-item-group grid">
             {/* footer item */}
             <div className="footer-item">

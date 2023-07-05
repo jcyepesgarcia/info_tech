@@ -11,12 +11,12 @@ function Team() {
         </div>
         <div className="team-content grid py-6">
           {team.map((team, index) => (
-            <div className="team-item text-center text-white" key={index}>
-              <img
-                src={team.img}
-                alt={`${team.name}`}
-                className="mx-auto"
-              />
+            <div
+              className="team-item text-center text-white"
+              key={index}
+              data-aos="fade-up"
+            >
+              <img src={team.img} alt={`${team.name}`} className="mx-auto" />
               <p className="text-upper fw-7">{team.name}</p>
               <span className="text-upper">{team.post}</span>
             </div>

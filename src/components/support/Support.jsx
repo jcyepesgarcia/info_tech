@@ -12,7 +12,7 @@ function Support() {
           </h2>
         </div>
         <div className="support-content grid py-6 text-center">
-          <div className="support-content-left">
+          <div className="support-content-left" data-aos="fade-right">
             <p className="text mx-auto">
               Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
               officia officiis, hic repudiandae ipsa natus assumenda non
@@ -27,7 +27,7 @@ function Support() {
               support center
             </a>
           </div>
-          <div className="support-content-right">
+          <div className="support-content-right" data-aos="fade-left">
             <img src={laptop_img} alt="laptop screen" className="mx-auto" />
           </div>
         </div>

@@ -41,37 +41,37 @@ function Navbar() {
           </button>
           <ul className="navbar-nav text-upper text-white fw-6 ls-1 fs-20 text-center">
             <li className="nav-item">
-              <a href="#header" className="nav-link">
+              <a href="#header" className="nav-link" onClick={handleClick}>
                 home
               </a>
             </li>
             <li className="nav-item">
-              <a href="#whatWeDo" className="nav-link">
+              <a href="#whatWeDo" className="nav-link" onClick={handleClick}>
                 what we do
               </a>
             </li>
             <li className="nav-item">
-              <a href="#features" className="nav-link">
+              <a href="#features" className="nav-link" onClick={handleClick}>
                 features
               </a>
             </li>
             <li className="nav-item">
-              <a href="#packages" className="nav-link">
+              <a href="#packages" className="nav-link" onClick={handleClick}>
                 packages
               </a>
             </li>
             <li className="nav-item">
-              <a href="#projects" className="nav-link">
+              <a href="#projects" className="nav-link" onClick={handleClick}>
                 projects
               </a>
             </li>
             <li className="nav-item">
-              <a href="#team" className="nav-link">
+              <a href="#team" className="nav-link" onClick={handleClick}>
                 teams
               </a>
             </li>
             <li className="nav-item">
-              <a href="#support" className="nav-link">
+              <a href="#support" className="nav-link" onClick={handleClick}>
                 support
               </a>
             </li>

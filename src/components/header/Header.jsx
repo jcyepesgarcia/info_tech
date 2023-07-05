@@ -11,7 +11,7 @@ function Header() {
       <div className="container">
         <div className="header-content grid text-center py-6 text-white">
           {/* left side */}
-          <div className="header-content-left">
+          <div className="header-content-left" data-aos="fade-right">
             <h1 className="text-upper header-title">
               info-tech app development
             </h1>
@@ -27,7 +27,7 @@ function Header() {
             </a>
           </div>
           {/* right side */}
-          <div className="header-content-right">
+          <div className="header-content-right" data-aos="fade-left">
             <img src={header_device_img} alt="devices_images" />
           </div>
         </div>
