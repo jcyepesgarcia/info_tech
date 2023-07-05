@@ -39,7 +39,6 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu entorno local:
 
 ¡Se aceptan contribuciones para mejorar este template de página web! Si tienes alguna idea, sugerencia o corrección, no dudes en realizar un pull request. Tu contribución es muy apreciada.
 
-### 1440px 
-![FireShot](https://github.com/jcyepesgarcia/info_tech/assets/136846281/729e2aeb-b483-4f33-b1d2-5f24865ac88f)
-### 375px 
-![FireShotMobile](https://github.com/jcyepesgarcia/info_tech/assets/136846281/f841468f-5259-45cf-b072-ee0d07bbd252) 
+## Demo:
+Para ver demo  **[¡Click Aquí!](https://infotechdemo.netlify.app/ "ver")**
+![FireShot](https://github.com/jcyepesgarcia/info_tech/assets/136846281/73f2389a-a26d-4fb1-aa0d-8effa97c2898)
