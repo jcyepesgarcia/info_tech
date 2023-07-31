@@ -1,5 +1,5 @@
 # Info Tech
-Este es un proyecto de práctica en React que consiste en un template genérico de página web diseñado para ofrecer cualquier tipo de servicios. El enfoque principal del diseño es "Mobile first", asegurando una experiencia óptima tanto en dispositivos móviles como en pantallas más grandes.
+Este proyecto en React consiste en un template genérico de página web diseñado para ofrecer cualquier tipo de servicios. El enfoque principal del diseño es "Mobile first", asegurando una experiencia óptima tanto en dispositivos móviles como en pantallas más grandes.
 
 ## Características principales
 
@@ -11,7 +11,7 @@ Este es un proyecto de práctica en React que consiste en un template genérico 
 
 Este proyecto fue creado siguiendo el tutorial del canal de YouTube "GorkCoder", el cual proporcionó instrucciones paso a paso para construir el template de página web. Puedes encontrar el tutorial [aquí](https://www.youtube.com/watch?v=q1uFvb9QfkM).
 
-Agradecemos a GorkCoder por compartir su conocimiento y permitirnos aprender y practicar React a través de este proyecto.
+Agradezco a GorkCoder por compartir su conocimiento y permitirme aprender y practicar React a través de este proyecto.
 
 ## Instalación y configuración
 
